@@ -1,0 +1,8 @@
+{
+  "name": "ryanyogan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ryanyogan/ryanyogan.git",
+  "author": "Ryan Yogan <ryanyogan@gmail.com>",
+  "license": "MIT"
+}
