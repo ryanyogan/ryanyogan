@@ -13,11 +13,6 @@ Currently building [Lincoln](https://github.com/ryanyogan/lincoln-project) — a
 - **[Fizzy Do MCP](https://github.com/ryanyogan/fizzy-do-mcp)** — 70+ MCP tools for Basecamp's Fizzy. AI-native project management through conversation.
 - **[Omarchy Monitor Settings](https://github.com/ryanyogan/omarchy-monitor-settings)** — TUI for Hyprland/Wayland monitor configuration. Go, Bubbletea, 80+ tests.
 
-## Background
-
-Scaled Procore's UI engineering organization from 8 to 65+ engineers through its IPO. Coined "Empathy Driven Development." Founded the Procore Developer Academy.
-
-Previously: HG Insights, Sonian (acq. Barracuda), PEAK6 Investments.
 
 ## Writing
 
