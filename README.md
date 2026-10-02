@@ -25,11 +25,21 @@ Write to ryan.yogan@hey.com, or read more at [ryanyogan.com/work](https://ryanyo
 - [Fizzy Do MCP](https://github.com/ryanyogan/fizzy-do-mcp): 67 MCP tools for the Fizzy kanban, including composite "project manager" tools. Local-first since v0.5.
 - [Pneuma](https://github.com/ryanyogan/pneuma): a terminal coding agent built from scratch, with a streaming agent loop and a plan mode that withholds the write tools. Prototype.
 
+**Shipped products**
+
+- [Level Up](https://levelup.yogan.dev): job and resume analysis running on six durable workflows with per-step retries, schema-validated output, and multi-model routing.
+- [Perfumery](https://github.com/ryanyogan/perfumery): a chat that composes perfumes, with the model's proposal validated against a real compound catalogue before the UI renders it. Prototype.
+
 **Desktop tools people use**
 
 - [Omarchy Monitor Settings](https://github.com/ryanyogan/omarchy-monitor-settings): Go TUI for Hyprland monitor configuration. Released, 20 stars.
 - [Omatop](https://github.com/ryanyogan/omarchy-omatop): system monitor with a full-screen instrument cluster and vim keys.
 - Five plugins in the Omarchy marketplace: Omatop, Omaday (calendar), Fizzy, Blast (a block game with a live global leaderboard) and Hydrate (water tracker).
+
+**Built for people I know**
+
+- [Yogan Hockey](https://github.com/ryanyogan/yogan_hockey) ([live](https://yogan-hockey.fly.dev)): a real-time NHL dashboard on Elixir and Phoenix LiveView that also tracks my brother's pro stats in Germany.
+- [Puck Pro](https://github.com/ryanyogan/puck_pro): in-browser pose detection plus vision-model feedback on my kids' hockey shots. Prototype.
 
 ## Writing
 
